@@ -1,8 +1,8 @@
-# AstroNvim Template
+# BasNvim Template
 
 **NOTE:** This is for AstroNvim v4+
 
-A template for getting started with [AstroNvim](https://github.com/AstroNvim/AstroNvim)
+A template for getting started with [BasNvim](https://github.com/Herisetyawan123/basvim-dotfiles)
 
 ## 🛠️ Installation
 
@@ -24,7 +24,7 @@ You can also just clone this repository directly if you do not want to track you
 #### Clone the repository
 
 ```shell
-git clone https://github.com/<your_user>/<your_repository> ~/.config/nvim
+git clone https://github.com/Herisetyawan123/basvim-dotfiles ~/.config/nvim
 ```
 
 #### Start Neovim
